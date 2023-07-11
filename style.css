@@ -237,6 +237,58 @@ nav{
 
 
 
+.blog-section{
+    padding-block: 100px;
+    cursor: pointer;
+}
+
+.blog-top{
+    text-align: center;
+}
+
+.blog-bottom{
+    justify-content: space-between;
+}
+
+.blog{
+    width: 32%;
+    background-color: rgba(17, 16, 16, 1);
+    height: 550px;
+}
+
+.blog1{
+    height: 60%;
+    width: 100%;
+    background-image: url(Flower-Asset/flowers1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.blog .img2{
+    background-image: url(Flower-Asset/flowers2.jpg);
+
+}
+
+.blog .img3{
+    background-image: url(Flower-Asset/flowers3.jpg);
+
+}
+
+.blog2{
+    height: 40%;
+    width: 100%;
+    color: rgb(243, 122, 148);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.blog2 h2:hover{
+    color: rgb(248, 59, 100);
+}
+
+
+
+
 .subscribe{
     background-image: url(Flower-Asset/Rectangle\ 9.png);
     background-position: center;
